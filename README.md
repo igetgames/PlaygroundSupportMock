@@ -9,5 +9,5 @@ To really run the book, you need to put it on your iPad and load it into the Swi
 You can install this into your project with Carthage and the following line in your Cartfile:
 
 ```
-github "loufranco/PlaygroundSupportMock"
+github "igetgames/PlaygroundSupportMock"
 ```
