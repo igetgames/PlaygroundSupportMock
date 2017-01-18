@@ -8,7 +8,7 @@
 
 import UIKit
 
-extension UIViewController {
+extension UIViewController: PlaygroundRemoteLiveView {
     public func send(_ value: PlaygroundValue) {
         // Stub
     }
