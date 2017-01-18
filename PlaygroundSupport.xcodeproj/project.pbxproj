@@ -7,11 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D9AACD71E2F5E4C00CC3860 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D9AACD61E2F5E4C00CC3860 /* Extensions.swift */; };
 		9A6FEC541D796D6F008C347B /* PlaygroundSupport.h in Headers */ = {isa = PBXBuildFile; fileRef = 9A6FEC521D796D6F008C347B /* PlaygroundSupport.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9A6FEC5E1D796E88008C347B /* PlaygroundSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A6FEC5D1D796E88008C347B /* PlaygroundSupport.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2D9AACD61E2F5E4C00CC3860 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; usesTabs = 0; };
 		9A6FEC4F1D796D6F008C347B /* PlaygroundSupport.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PlaygroundSupport.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A6FEC521D796D6F008C347B /* PlaygroundSupport.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaygroundSupport.h; sourceTree = "<group>"; };
 		9A6FEC531D796D6F008C347B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -51,6 +53,7 @@
 				9A6FEC521D796D6F008C347B /* PlaygroundSupport.h */,
 				9A6FEC531D796D6F008C347B /* Info.plist */,
 				9A6FEC5D1D796E88008C347B /* PlaygroundSupport.swift */,
+				2D9AACD61E2F5E4C00CC3860 /* Extensions.swift */,
 			);
 			path = PlaygroundSupport;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A6FEC5E1D796E88008C347B /* PlaygroundSupport.swift in Sources */,
+				2D9AACD71E2F5E4C00CC3860 /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
